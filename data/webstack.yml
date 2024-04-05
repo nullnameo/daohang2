@@ -48,6 +48,45 @@
       url: https://www.youku.com/
       description: 中国领先的视频媒体平台
 
+- taxonomy: 国外网站
+  icon: fa-globe
+  links:
+    - title: GitHub
+      url: https://github.com/
+      description: 全球最大的开源社区和软件开发平台
+    - title: Facebook
+      url: https://www.facebook.com/
+      description: 全球最大的社交网络平台
+    - title: 推特
+      url: https://twitter.com/
+      description: 全球最大的即时信息分享平台
+    - title: YouTube
+      url: https://www.youtube.com/
+      description: 全球最大的视频分享平台
+    - title: Reddit
+      url: https://www.reddit.com/
+      description: 全球知名的社交新闻网站
+    - title: Medium
+      url: https://medium.com/
+      description: 优质写作内容聚合平台
+    - title: Cloudflare
+      url: https://www.cloudflare.com/
+      description: 域名托管网站
+    - title: TikTok
+      url: https://www.tiktok.com/
+      description: 全球热门的短视频分享平台
+    - title: Google
+      url: https://www.google.com/
+      description: 全球最大的搜索引擎和互联网技术公司
+    - title: Instagram
+      url: https://www.instagram.com/
+      description: 全球最大的图片分享社交平台
+    - title: Gmail
+      url: https://mail.google.com/
+      description: 谷歌邮箱
+    - title: 维基百科
+      url: https://www.wikipedia.org/
+      description: 最大的自由内容百科全书
       
 - taxonomy: 常用推荐
   icon: fa-star
