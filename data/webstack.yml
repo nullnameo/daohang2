@@ -104,6 +104,31 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
  
+ - taxonomy: 电视直播
+  icon: fa-tv
+  links:
+    - title: CCTV
+      url: http://tv.cctv.com/live/
+      description: 中国中央电视台
+    - title: 南宁电视台
+      url: https://www.nntv.cn/live/nntv_xw/
+      description: 南宁市地方电视台
+    - title: 广西电视台
+      url: https://tv.gxtv.cn/
+      description: 广西自治区电视台
+    - title: 广东电视台
+      url: https://www.gdtv.cn/tvChannelDetail/43
+      description: 广东省地方电视台
+    - title: 江苏电视台
+      url: https://live.jstv.com/
+      description: 江苏省地方电视台
+    - title: 湖南卫视
+      url: https://live.mgtv.com/?channelId=316
+      description: 湖南省地方卫视台
+    - title: 安徽电视台
+      url: https://www.ahtv.cn/folder9000/folder20193
+      description: 安徽省地方电视台
+ 
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
