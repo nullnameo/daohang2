@@ -104,7 +104,7 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
- - taxonomy: 电视直播
+- taxonomy: 电视直播
   icon: fa-tv
   links:
     - title: CCTV
