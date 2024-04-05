@@ -87,6 +87,23 @@
     - title: 维基百科
       url: https://www.wikipedia.org/
       description: 最大的自由内容百科全书
+
+      - taxonomy: AI
+  icon: fa-brain
+  links:
+    - title: chatGPT
+      url: https://chat.openai.com/
+      description: 领先的人工智能研究组织
+    - title: 谷歌Gemini AI助手
+      url: https://gemini.google.com/
+      description: 谷歌Gemini AI助手是谷歌的人工智能助手
+    - title: Bing AI
+      url: https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx
+      description: 微软Bing搜索引擎的人工智能技术
+    - title: Claude
+      url: https://claude.ai/
+      description: Claude是一个人工智能写作助手
+
       
 - taxonomy: 常用推荐
   icon: fa-star
