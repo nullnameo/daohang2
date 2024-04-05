@@ -2,22 +2,53 @@
 - taxonomy: 国内网站
   icon: fa-globe
   links:
-    - title: 知乎
-      url: https://www.zhihu.com/
-      description: 中文互联网上知名的问答社区和创作者聚集地
+    - title: it之家
+      url: https://www.ithome.com/
+      description: IT科技资讯网站
+    - title: 百度贴吧
+      url: https://tieba.baidu.com/
+      description: 百度旗下的网络社区
+    - title: 抖音
+      url: https://www.douyin.com/
+      description: 中国领先的短视频平台
     - title: 小红书
       url: https://www.xiaohongshu.com/
-      description: 用户分享生活方式和消费经验的社交电商平台
-    - title: 微信公众号
-      url: https://mp.weixin.qq.com/
-      description: 个人或机构可以在微信上申请开通的资讯发布平台
-    - title: 简书
-      url: https://www.jianshu.com/
-      description: 自由创作、分享知识的优质创作社区
-    - title: V2EX
-      url: https://www.v2ex.com/
-      description: 程序员和设计师的社区交流平台
+      description: 中国领先的社交电商平台
+    - title: 哔哩哔哩
+      url: https://www.bilibili.com/
+      description: 中国领先的动漫视频网站
+    - title: 西瓜视频
+      url: https://www.ixigua.com/
+      description: 中国领先的短视频平台
+    - title: 爱奇艺
+      url: https://www.iqiyi.com/
+      description: 中国领先的在线视频媒体平台
+    - title: 腾讯视频
+      url: https://v.qq.com/
+      description: 腾讯旗下的在线视频平台
+    - title: 虎牙直播
+      url: https://www.huya.com/
+      description: 中国领先的游戏直播平台
+    - title: 斗鱼直播
+      url: https://www.douyu.com/
+      description: 中国领先的游戏直播平台
+    - title: 什么值得买
+      url: https://www.smzdm.com/
+      description: 中国领先的消费导购网站
+    - title: 汽车之家
+      url: https://www.autohome.com.cn/
+      description: 中国领先的汽车资讯网站
+    - title: 今日头条
+      url: https://www.toutiao.com/
+      description: 中国领先的新闻资讯平台
+    - title: 下歌吧
+      url: https://www.xiage8.com/
+      description: 音乐免费下载网站
+    - title: 优酷视频
+      url: https://www.youku.com/
+      description: 中国领先的视频媒体平台
 
+      
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
