@@ -87,8 +87,8 @@
     - title: 维基百科
       url: https://www.wikipedia.org/
       description: 最大的自由内容百科全书
-
-      - taxonomy: AI
+      
+  - taxonomy: AI
   icon: fa-brain
   links:
     - title: chatGPT
