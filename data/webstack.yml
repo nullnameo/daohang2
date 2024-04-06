@@ -140,6 +140,27 @@
     - title: 浙江电视台
       url: http://www.cztv.com/live?cid=101
       description: 浙江地方电视台
+    - title: 内蒙古电视台
+      url: https://www.nmtv.cn/liveTv
+      description: 内蒙古地方电视台
+    - title: 河北古电视台
+      url: https://www.hebtv.com/19/19js/st/xdszb/index.shtml
+      description: 河北地方电视台
+    - title: 湖北电视台
+      url: https://news.hbtv.com.cn/app/tv/438
+      description: 湖北地方电视台
+    - title: 海南古电视台
+      url: https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=live_list
+      description: 海南地方电视台
+    - title: 小姐电视台
+      url: https://www.xjtvs.com.cn/live/xjtv.shtml
+      description: 新疆地方电视台
+    - title: 福建古电视台
+      url: https://live.fjtv.net/zhpd/
+      description: 福建地方电视台
+    - title: 广州古电视台
+      url: https://www.gztv.com/#/channel
+      description: 广州地方电视台
 
 - taxonomy: 常用推荐
   icon: fa-star
