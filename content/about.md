@@ -1,6 +1,6 @@
 ---
 title: "关于网站"
-date: 2023-12-20
+date: 2024-04-06
 draft: false
 ---
 
@@ -12,7 +12,7 @@ draft: false
 
 ### 本站模板
 
-[https://github.com/oulh/nav](https://github.com/oulh/nav)
+[https://danghang.yeyuan.link)
 
 ### 本站主题
 
