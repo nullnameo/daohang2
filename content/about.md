@@ -12,7 +12,7 @@ draft: false
 
 ### 本站模板
 
-[https://danghang.yeyuan.link)
+[https://github.com/namenulll/zuixindaohang/blob/main/data/webstack.yml)
 
 ### 本站主题
 
