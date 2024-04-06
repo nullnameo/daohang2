@@ -42,7 +42,7 @@
       url: https://www.toutiao.com/
       description: 中国领先的新闻资讯平台
     - title: 下歌吧
-      url: https://www.xiage8.com/
+      url: https://xiageba.com/
       description: 音乐免费下载网站
     - title: 优酷视频
       url: https://www.youku.com/
@@ -98,7 +98,7 @@
       url: https://gemini.google.com/
       description: 谷歌Gemini AI助手是谷歌的人工智能助手
     - title: Bing AI
-      url: https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx
+      url: https://bing.com/chat
       description: 微软Bing搜索引擎的人工智能技术
     - title: Claude
       url: https://claude.ai/
@@ -128,6 +128,9 @@
     - title: 安徽电视台
       url: https://www.ahtv.cn/folder9000/folder20193
       description: 安徽省地方电视台
+       - title: 上海电视台
+      url: https://live.kankanews.com/huikan
+      description: 上海地方电视台
 
 - taxonomy: 常用推荐
   icon: fa-star
