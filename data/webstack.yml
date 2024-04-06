@@ -128,9 +128,18 @@
     - title: 安徽电视台
       url: https://www.ahtv.cn/folder9000/folder20193
       description: 安徽省地方电视台
-       - title: 上海电视台
+    - title: 上海电视台
       url: https://live.kankanews.com/huikan
       description: 上海地方电视台
+    - title: 贵州电视台
+      url: https://www.gzstv.com/tv/ch01
+      description: 贵州地方电视台
+    - title: 云南电视台
+      url: https://www.yntv.cn/live.html
+      description: 云南地方电视台
+    - title: 浙江电视台
+      url: http://www.cztv.com/live?cid=101
+      description: 浙江地方电视台
 
 - taxonomy: 常用推荐
   icon: fa-star
