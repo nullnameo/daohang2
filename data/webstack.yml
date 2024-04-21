@@ -104,7 +104,23 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
-- taxonomy: 电视直播
+- taxonomy: 海外电视直播
+  icon: fa-brain
+  links:
+    - title: MDTX MAX
+      url: https://mhdmax.com/
+      description: 印度电视
+    - title: 夜视影音
+      url: https://yeslivetv.com/
+      description: 两岸三地电视
+    - title: 111
+      url: https://bing.com/chat
+      description: 微软Bing搜索引擎的人工智能技术
+    - title: 1111
+      url: https://claude.ai/
+      description: Claude是一个人工智能写作助手
+
+- taxonomy: 国内电视直播
   icon: fa-tv
   links:
     - title: CCTV
