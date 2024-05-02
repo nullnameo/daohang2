@@ -107,7 +107,7 @@
 - taxonomy: 科技
   icon: fa-cogs
   links:
-  - title: 全球主机交流论坛
+    - title: 全球主机交流论坛
       url: https://hostloc.com/
       description: 全球主机交流论坛
     - title: LINUX DO
