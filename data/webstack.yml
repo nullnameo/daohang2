@@ -5,6 +5,9 @@
     - title: it之家
       url: https://www.ithome.com/
       description: IT科技资讯网站
+    - title: 蓝点网
+      url: https://www.landiannews.com/
+      description: 互联网技术研究与应用
     - title: 百度贴吧
       url: https://tieba.baidu.com/
       description: 百度旗下的网络社区
@@ -119,6 +122,9 @@
     - title: nodeseek
       url: https://nodeseek.com/
       description: 中文云服务器讨论社区
+    - title: V2EX
+      url: https://www.v2ex.com/
+      description: 程序员和设计师的社区交流平台
 
 - taxonomy: 海外电视直播
   icon: fa-tv
