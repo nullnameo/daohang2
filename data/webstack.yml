@@ -104,8 +104,24 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
+- taxonomy: 科技
+  icon: fa-cogs
+  links:
+  - title: 全球主机交流论坛
+      url: https://hostloc.com/
+      description: 全球主机交流论坛
+    - title: LINUX DO
+      url: https://linux.do/
+      description: Let's do it with linux
+    - title: LowEndTalk
+      url: https://www.lowendtalk.com/
+      description: 外国云服务社区
+    - title: nodeseek
+      url: https://nodeseek.com/
+      description: 中文云服务器讨论社区
+
 - taxonomy: 海外电视直播
-  icon: fa-brain
+  icon: fa-tv
   links:
     - title: MDTX MAX
       url: https://mhdmax.com/
@@ -113,12 +129,12 @@
     - title: 夜视影音
       url: https://yeslivetv.com/
       description: 两岸三地电视
-    - title: 111
-      url: https://bing.com/chat
-      description: 微软Bing搜索引擎的人工智能技术
-    - title: 1111
-      url: https://claude.ai/
-      description: Claude是一个人工智能写作助手
+    - title: yupptv
+      url: https://www.yupptv.com/
+      description: 印度电视
+    - title: parsatv
+      url: https://www.parsatv.com/
+      description: 海外电视直播
 
 - taxonomy: 国内电视直播
   icon: fa-tv
@@ -165,7 +181,7 @@
     - title: 湖北电视台
       url: https://news.hbtv.com.cn/app/tv/438
       description: 湖北地方电视台
-    - title: 海南古电视台
+    - title: 海南电视台
       url: https://www.hnntv.cn/live.html?playType=livePlay&channelId=13&referPage=live_list
       description: 海南地方电视台
     - title: 新疆电视台
@@ -174,7 +190,7 @@
     - title: 福建电视台
       url: https://live.fjtv.net/zhpd/
       description: 福建地方电视台
-    - title: 广州古电视台
+    - title: 广州电视台
       url: https://www.gztv.com/#/channel
       description: 广州地方电视台
 
