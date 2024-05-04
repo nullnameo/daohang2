@@ -90,6 +90,9 @@
     - title: 维基百科
       url: https://www.wikipedia.org/
       description: 最大的自由内容百科全书
+    - title: Discord
+      url: https://discord.com/
+      description: 全球知名的语音、视频、文本聊天应用
  
 - taxonomy: AI
   icon: fa-brain
