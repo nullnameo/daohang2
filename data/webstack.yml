@@ -110,8 +110,8 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
-- taxonomy: 科技
-  icon: fa-cogs
+- taxonomy: 论坛社区
+  icon: fa-users
   links:
     - title: 全球主机交流论坛
       url: https://hostloc.com/
