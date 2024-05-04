@@ -128,6 +128,9 @@
     - title: V2EX
       url: https://www.v2ex.com/
       description: 程序员和设计师的社区交流平台
+    - title: 吾爱破解
+      url: https://www.52pojie.cn/
+      description: 专注于软件破解和逆向工程的论坛社区
 
 - taxonomy: 网盘
   icon: fa-cloud
