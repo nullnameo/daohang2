@@ -93,6 +93,9 @@
     - title: Discord
       url: https://discord.com/
       description: 全球知名的语音、视频、文本聊天应用
+    - title: whatismyipaddress
+      url: https://whatismyipaddress.com/
+      description: IP地址查询 Whats my IP address?
  
 - taxonomy: AI
   icon: fa-brain
