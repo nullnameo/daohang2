@@ -13,6 +13,7 @@
       url: https://tieba.baidu.com/
       description: 百度旗下的网络社区
     - title: 抖音
+      logo: images/logos/tk.png
       url: https://www.douyin.com/
       description: 中国领先的短视频平台
     - title: 小红书
@@ -31,12 +32,14 @@
       url: https://v.qq.com/
       description: 腾讯旗下的在线视频平台
     - title: 虎牙直播
+      logo: images/logos/huya.png
       url: https://www.huya.com/
       description: 中国领先的游戏直播平台
     - title: 斗鱼直播
       url: https://www.douyu.com/
       description: 中国领先的游戏直播平台
     - title: 什么值得买
+      logo: images/logos/mai.png
       url: https://www.smzdm.com/
       description: 中国领先的消费导购网站
     - title: 汽车之家
@@ -77,12 +80,15 @@
       url: https://www.cloudflare.com/
       description: 域名托管网站
     - title: TikTok
+      logo: images/logos/tk.png
       url: https://www.tiktok.com/
       description: 全球热门的短视频分享平台
     - title: Google
+      logo: images/logos/guge.png
       url: https://www.google.com/
       description: 全球最大的搜索引擎和互联网技术公司
     - title: Instagram
+      logo: images/logos/ig.png
       url: https://www.instagram.com/
       description: 全球最大的图片分享社交平台
     - title: Gmail
