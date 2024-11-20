@@ -3,6 +3,7 @@
   icon: fa-globe
   links:
     - title: it之家
+      logo: images/logos/it.png
       url: https://www.ithome.com/
       description: IT科技资讯网站
     - title: 蓝点网
