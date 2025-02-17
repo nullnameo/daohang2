@@ -21,9 +21,11 @@
       url: https://www.xiaohongshu.com/
       description: 中国领先的社交电商平台
     - title: 哔哩哔哩
+      logo: images/logos/bilibi.png
       url: https://www.bilibili.com/
       description: 中国领先的动漫视频网站
     - title: 西瓜视频
+      logo: images/logos/xigua.png
       url: https://www.ixigua.com/
       description: 中国领先的短视频平台
     - title: 爱奇艺
@@ -49,6 +51,7 @@
       url: https://www.autohome.com.cn/
       description: 中国领先的汽车资讯网站
     - title: 今日头条
+      logo: images/logos/tout.png
       url: https://www.toutiao.com/
       description: 中国领先的新闻资讯平台
     - title: 下歌吧
@@ -62,12 +65,15 @@
   icon: fa-globe
   links:
     - title: GitHub
+      logo: images/logos/github.png
       url: https://github.com/
       description: 全球最大的开源社区和软件开发平台
     - title: Facebook
+      logo: images/logos/fbb.png
       url: https://www.facebook.com/
       description: 全球最大的社交网络平台
-    - title: 推特
+    - title: 推特(X)
+      logo: images/logos/x.png
       url: https://twitter.com/
       description: 全球最大的即时信息分享平台
     - title: YouTube
@@ -75,6 +81,7 @@
       url: https://www.youtube.com/
       description: 全球最大的视频分享平台
     - title: Reddit
+      logo: images/logos/Reddit.png
       url: https://www.reddit.com/
       description: 全球知名的社交新闻网站
     - title: Medium
