@@ -10,6 +10,7 @@
       url: https://www.landiannews.com/
       description: 互联网技术研究与应用
     - title: 百度贴吧
+      logo: images/logos/it.png
       url: https://tieba.baidu.com/
       description: 百度旗下的网络社区
     - title: 抖音
@@ -41,6 +42,7 @@
       url: https://www.huya.com/
       description: 中国领先的游戏直播平台
     - title: 斗鱼直播
+      logo: images/logos/douyu.png
       url: https://www.douyu.com/
       description: 中国领先的游戏直播平台
     - title: 什么值得买
@@ -48,6 +50,7 @@
       url: https://www.smzdm.com/
       description: 中国领先的消费导购网站
     - title: 汽车之家
+      logo: images/logos/qccc.png
       url: https://www.autohome.com.cn/
       description: 中国领先的汽车资讯网站
     - title: 今日头条
@@ -58,6 +61,7 @@
       url: https://xiageba.com/
       description: 音乐免费下载网站0
     - title: 优酷视频
+      logo: images/logos/youku.png
       url: https://www.youku.com/
       description: 中国领先的视频媒体平台0
 
@@ -68,7 +72,7 @@
       logo: images/logos/github.png
       url: https://github.com/
       description: 全球最大的开源社区和软件开发平台
-    - title: Facebook
+    - title: Facebook(脸书)
       logo: images/logos/fbb.png
       url: https://www.facebook.com/
       description: 全球最大的社交网络平台
@@ -76,7 +80,7 @@
       logo: images/logos/x.png
       url: https://twitter.com/
       description: 全球最大的即时信息分享平台
-    - title: YouTube
+    - title: YouTube(油管)
       logo: images/logos/ytb.png
       url: https://www.youtube.com/
       description: 全球最大的视频分享平台
@@ -121,15 +125,19 @@
   icon: fa-brain
   links:
     - title: chatGPT
+      logo: images/logos/chatgpt.png
       url: https://chat.openai.com/
       description: 领先的人工智能研究组织
     - title: 谷歌Gemini AI助手
+      logo: images/logos/gemini.png
       url: https://gemini.google.com/
       description: 谷歌Gemini AI助手是谷歌的人工智能助手
     - title: Bing AI
+      logo: images/logos/cpo.png
       url: https://bing.com/chat
       description: 微软Bing搜索引擎的人工智能技术
     - title: Claude
+      logo: images/logos/claude.ai.png
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
