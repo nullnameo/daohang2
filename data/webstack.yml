@@ -7,6 +7,7 @@
       url: https://www.ithome.com/
       description: IT科技资讯网站
     - title: 蓝点网
+      logo: images/logos/ldd.png
       url: https://www.landiannews.com/
       description: 互联网技术研究与应用
     - title: 百度贴吧
@@ -112,18 +113,25 @@
       url: https://mail.google.com/
       description: 谷歌邮箱
     - title: 维基百科
+      logo: images/logos/weiki.png
       url: https://www.wikipedia.org/
       description: 最大的自由内容百科全书
     - title: Discord
+      logo: images/logos/Discord.png
       url: https://discord.com/
       description: 全球知名的语音、视频、文本聊天应用
     - title: whatismyipaddress
+      logo: images/logos/whatismyipaddress.png
       url: https://whatismyipaddress.com/
       description: IP地址查询 Whats my IP address?
  
 - taxonomy: AI
   icon: fa-brain
   links:
+    - title: DeepSeek
+      logo: images/logos/DeepSeek.png
+      url: https://chat.deepseek.com/
+      description: 中国人工智能公司研发的大型语言模型
     - title: chatGPT
       logo: images/logos/chatgpt.png
       url: https://chat.openai.com/
