@@ -149,6 +149,30 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
+- taxonomy: 在线免费影视福利专区
+  icon: fa-film
+  links:
+    - title: HDmoli
+      logo: images/logos/vdd.png
+      url: https://www.hdmoli.pro/
+      description: 免费高清影视平台
+    - title: 低端影视
+      logo: images/logos/vdd.png
+      url: https://ddys.info/
+      description: 免费高清影视平台
+    - title: 飞快TV
+      logo: images/logos/vdd.png
+      url: https://feikuai.tv/
+      description: 免费高清影视平台
+    - title: 独播库
+      logo: images/logos/vdd.png
+      url: https://www.nivod.vip/
+      description: 免费高清影视平台
+    - title: 一个G影视
+      logo: images/logos/vdd.png
+      url: https://www.ygg01.com/
+      description: 免费高清影视平台
+
 - taxonomy: 论坛社区
   icon: fa-users
   links:
