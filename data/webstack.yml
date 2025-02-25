@@ -11,7 +11,7 @@
       url: https://www.landiannews.com/
       description: 互联网技术研究与应用
     - title: 百度贴吧
-      logo: images/logos/it.png
+      logo: images/logos/tieba.png
       url: https://tieba.baidu.com/
       description: 百度旗下的网络社区
     - title: 抖音
@@ -109,7 +109,7 @@
       url: https://www.instagram.com/
       description: 全球最大的图片分享社交平台
     - title: Gmail
-      logo: images/logos/gmai.png
+      logo: images/logos/Gmail.png
       url: https://mail.google.com/
       description: 谷歌邮箱
     - title: 维基百科
@@ -175,6 +175,7 @@
   icon: fa-cloud
   links:
     - title: 百度网盘
+      logo: images/logos/bdyun.png
       url: https://pan.baidu.com/
       description: 百度旗下的网盘服务
     - title: 蓝奏云
