@@ -2,10 +2,14 @@
 - taxonomy: 国内网站
   icon: fa-globe
   links:
-    - title: it之家
+    - title: IT之家
       logo: images/logos/it.png
       url: https://www.ithome.com/
       description: IT科技资讯网站
+    - title: 今日热榜
+      logo: images/logos/rebang.png
+      url: https://tophub.today/
+      description: 各大热门网站热门头条的聚合网站
     - title: 蓝点网
       logo: images/logos/ldd.png
       url: https://www.landiannews.com/
@@ -64,11 +68,15 @@
     - title: 优酷视频
       logo: images/logos/youku.png
       url: https://www.youku.com/
-      description: 中国领先的视频媒体平台0
+      description: 中国领先的视频媒体平台
     - title: 多邻国
       logo: images/logos/dlguo.png
       url: https://www.duolingo.cn/
       description: 世界上最受欢迎的语言学习平台
+    - title: 京东
+      logo: images/logos/jdong.png
+      url: https://www.jd.com/
+      description: 国内专业的网上购物商城
 
 - taxonomy: 国外网站
   icon: fa-globe
