@@ -65,6 +65,10 @@
       logo: images/logos/youku.png
       url: https://www.youku.com/
       description: 中国领先的视频媒体平台0
+    - title: 多邻国
+      logo: images/logos/dlguo.png
+      url: https://www.duolingo.cn/
+      description: 世界上最受欢迎的语言学习平台
 
 - taxonomy: 国外网站
   icon: fa-globe
@@ -96,7 +100,7 @@
       logo: images/logos/cf.png
       url: https://www.cloudflare.com/
       description: 域名托管网站
-    - title: TikTok
+    - title: TikTok抖音海外版
       logo: images/logos/tk.png
       url: https://www.tiktok.com/
       description: 全球热门的短视频分享平台
