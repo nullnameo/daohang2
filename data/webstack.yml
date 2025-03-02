@@ -58,9 +58,9 @@
       logo: images/logos/tout.png
       url: https://www.toutiao.com/
       description: 中国领先的新闻资讯平台
-    - title: 下歌吧
-      url: https://xiageba.com/
-      description: 音乐免费下载网站0
+    - title: 站长工具
+      url: https://ping.chinaz.com/
+      description: 站长工具
     - title: 优酷视频
       logo: images/logos/youku.png
       url: https://www.youku.com/
@@ -112,6 +112,10 @@
       logo: images/logos/Gmail.png
       url: https://mail.google.com/
       description: 谷歌邮箱
+    - title: 谷歌地球
+      logo: images/logos/images.png
+      url: https://earth.google.com/
+      description: 全球高清卫星地图
     - title: 维基百科
       logo: images/logos/weiki.png
       url: https://www.wikipedia.org/
