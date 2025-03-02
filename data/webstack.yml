@@ -140,6 +140,10 @@
       logo: images/logos/whatismyipaddress.png
       url: https://whatismyipaddress.com/
       description: IP地址查询 Whats my IP address?
+    - title: twitch
+      logo: images/logostwcc.png
+      url: https://www.twitch.tv/
+      description: 国外直播网站
  
 - taxonomy: AI
   icon: fa-brain
