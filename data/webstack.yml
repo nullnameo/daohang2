@@ -77,6 +77,14 @@
       logo: images/logos/jdong.png
       url: https://www.jd.com/
       description: 国内专业的网上购物商城
+    - title: 懂车帝
+      logo: images/logos/dcd1.png
+      url: https://www.dongchedi.com/
+      description: 汽车资讯平台,懂车更懂你
+    - title: 易车网
+      logo: images/logos/yiche.png
+      url: https://www.yiche.com/
+      description: 提供专业、丰富的互联网资讯和导购服务
 
 - taxonomy: 国外热门网站
   icon: fa-globe
