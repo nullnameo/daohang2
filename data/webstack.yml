@@ -149,19 +149,19 @@
       url: https://whatismyipaddress.com/
       description: IP地址查询 Whats my IP address?
     - title: twitch
-      logo: images/twcc.png
+      logo: images/logos//twcc.png
       url: https://www.twitch.tv/
       description: 国外直播网站
     - title: Z-Library
-      logo: images/Z-Library.png
+      logo: images/logos/Z-Library.png
       url: https://zh.kid1412.rest/
       description: 世界上最大的在线图书馆之一
     - title: 追影猫
-      logo: images/zymm.png
+      logo: images/logos/zymm.png
       url: https://zhuiyingmao5.com/
       description: 汇集众多第三方可用网站
     - title: 臭蛋蛋影视导航
-      logo: images/choudanys.png
+      logo: images/logos/choudanys.png
       url: https://cddys.com/
       description: 收集全网热门第三方在线视频网站
  
