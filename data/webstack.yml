@@ -239,7 +239,27 @@
     - title: 七位网
       logo: images/logos/vdd.png
       url: https://www.pkavi.com/
-      description: 免费高清影视下载
+      description: 免费高清影视下载  
+      
+- taxonomy: 软件下载专区
+  icon: fa-download
+  links:
+    - title: 果核剥壳
+      logo: images/logos/ghxi.com.png
+      url: https://www.ghxi.com/
+      description: 果核剥壳，还原软件的本质
+    - title: 423Down
+      logo: images/logos/423down.com.png
+      url: https://www.423down.com/
+      description: 一家由个人运营的软件下载站博客
+      - title: Digit77
+      logo: images/logos/77.png
+      url: https://www.digit77.com/
+      description: MAC OS软件下载
+      - title: Macwk
+      logo: images/logos/macwk.png
+      url: https://macwk.cn/
+      description: MAC应用软件,每天更新大量精品mac软件，为您提供优质的mac软件,mac破解版软件下载
 
 - taxonomy: 论坛社区
   icon: fa-users
