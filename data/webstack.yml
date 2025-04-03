@@ -322,7 +322,7 @@
       url: https://onedrive.live.com/
       description: 微软推出的云存储服务
 
-- taxonomy: 海外电视直播
+- taxonomy: 港澳台、海外电视直播
   icon: fa-tv
   links:
     - title: MDTX MAX
@@ -339,6 +339,15 @@
       description: 海外电视直播
     - title: 凤凰卫视资讯台
       url: https://www.youtube.com/watch?v=HFib76ySpbU
+      description: YouTube官方直播
+    - title: 中视新闻台
+      url: https://www.youtube.com/watch?v=TCnaIE_SAtM
+      description: YouTube官方直播
+    - title: 东森新闻台
+      url: https://www.youtube.com/watch?v=V1p33hqPrUk
+      description: YouTube官方直播
+    - title: 台视新闻台
+      url: https://www.youtube.com/watch?v=xL0ch83RAK8
       description: YouTube官方直播
 
 - taxonomy: 国内电视直播
