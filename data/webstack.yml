@@ -181,7 +181,7 @@
       url: https://claude.ai/
       description: Claude是一个人工智能写作助手
 
-- taxonomy: 在线免费影视福利专区
+- taxonomy: 在线免费影视专区
   icon: fa-film
   links:
     - title: 追影猫
@@ -261,7 +261,7 @@
       url: https://macwk.cn/
       description: MAC应用软件,每天更新大量精品mac软件，为您提供优质的mac软件,mac破解版软件下载
 
-- taxonomy: 论坛社区
+- taxonomy: 主机云服务
   icon: fa-users
   links:
     - title: 全球主机交流论坛
@@ -279,6 +279,12 @@
     - title: V2EX
       url: https://www.v2ex.com/
       description: 程序员和设计师的社区交流平台
+    - title: 国外主机测评
+      url: https://www.zhujiceping.com/
+      description: 。。。。
+    - title: IT狗
+      url: https://www.itdog.cn/
+      description: 网络工具
     - title: 吾爱破解
       logo: images/logos/wuai.png
       url: https://www.52pojie.cn/
@@ -331,6 +337,9 @@
     - title: parsatv
       url: https://www.parsatv.com/
       description: 海外电视直播
+    - title: 凤凰卫视资讯台
+      url: https://www.youtube.com/watch?v=HFib76ySpbU
+      description: YouTube官方直播
 
 - taxonomy: 国内电视直播
   icon: fa-tv
