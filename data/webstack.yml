@@ -349,6 +349,63 @@
     - title: 台视新闻台
       url: https://www.youtube.com/watch?v=xL0ch83RAK8
       description: YouTube官方直播
+    - title: TVBS新闻
+      url: https://www.youtube.com/watch?v=m_dhMSvUCIc
+      description: YouTube官方直播
+    - title: 韩国阿里郎电视
+      url: https://www.youtube.com/watch?v=CJVBX7KI5nU
+      description: YouTube官方直播
+    - title: K-POP韩国流行音乐台
+      url: https://www.youtube.com/watch?v=JVocS7Yftw8
+      description: YouTube官方直播
+    - title: TVN新闻台
+      url: https://www.youtube.com/watch?v=IB7zflbICFM
+      description: YouTube官方直播
+    - title: YonhapnewsTV
+      url: https://www.youtube.com/watch?v=6QZ_qc75ihU
+      description: YouTube官方直播
+    - title: 新加坡亚洲新闻台
+      url: https://www.youtube.com/watch?v=XWq5kBlakcQ
+      description: YouTube官方直播
+    - title: 半岛新闻台英语频道
+      url: https://www.youtube.com/watch?v=gCNeDWCI0vo
+      description: YouTube官方直播
+    - title: 日本ANN NEWS
+      url: https://www.youtube.com/watch?v=coYw-eVU0Ks
+      description: YouTube官方直播
+    - title: 日本NHK WORLD
+      url: https://www.youtube.com/watch?v=f0lYkdA-Gtw
+      description: YouTube官方直播
+    - title: 日本广播公司
+      url: https://www.youtube.com/watch?v=t9kwjZBLI-A
+      description: YouTube官方直播
+    - title: 日本TBS NEWS
+      url: https://www.youtube.com/watch?v=ohI356mwBp8
+      description: YouTube官方直播
+    - title: 无上师电视
+      url: https://www.youtube.com/watch?v=ZzWBpGwKoaI
+      description: YouTube官方直播
+    - title: 巴基斯坦ARY
+      url: https://www.youtube.com/watch?v=sUKwTVAc0Vo
+      description: YouTube官方直播
+    - title: 澳大利亚ABC新闻
+      url: https://www.youtube.com/watch?v=vOTiJkg1voo
+      description: YouTube官方直播
+    - title: 天空新闻
+      url: https://www.youtube.com/watch?v=YDvsBbKfLPA
+      description: YouTube官方直播
+    - title: 法兰西24
+      url: https://www.youtube.com/watch?v=Ap-UM1O9RBU
+      description: YouTube官方直播
+    - title: 天空新闻
+      url: https://www.youtube.com/watch?v=YDvsBbKfLPA
+      description: YouTube官方直播
+    - title: 印尼TV one
+      url: https://www.youtube.com/watch?v=yNKvkPJl-tg
+      description: YouTube官方直播
+    - title: 寰宇新聞
+      url: https://www.youtube.com/watch?v=6IquAgfvYmc
+      description: YouTube官方直播
 
 - taxonomy: 国内电视直播
   icon: fa-tv
